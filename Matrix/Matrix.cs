@@ -87,6 +87,7 @@ namespace MatrixAndPolynom
                     }
                 }
                 return newMatrix;
+
             }
 
         }
